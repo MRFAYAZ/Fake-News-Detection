@@ -1,0 +1,11 @@
+
+---
+
+## ✅ `requirements.txt`
+
+```txt
+pandas
+nltk
+scikit-learn
+feedparser
+beautifulsoup4
